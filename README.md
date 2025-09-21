@@ -20,4 +20,4 @@ Caso de contraseña valida
 5. Reflexion  
    ¿Qué pasa si la contraseña tiene 8+ caracteres y usa mayúsculas, números y símbolos?.  
 
-   En caso de ingresar más de 8 caracteres, el programa mostrará el mensaje "La contraseña debe tener 4 caracteres." para luego cerrarse automaticamente. Al momento de ingresar letras mayúsculas o minusculas, números o simbolos, no habrá problema alguno ya que el programa está adaptado para tambien encontrar este tipo de caracteres.
+   En caso de ingresar más de 8 caracteres, este programa mostrará el mensaje "La contraseña debe tener 4 caracteres." para luego cerrarse automaticamente. Al momento de ingresar letras mayúsculas o minusculas, números o simbolos, no habrá problema alguno ya que el programa está adaptado para tambien encontrar este tipo de caracteres. En caso de permitir más caracteres, el orograma se demorará más tiempo en obtener la respuesta debido a que realiza la busqueda caracter por caracter, además, tendrá un consumo más alto de la memoria. 
