@@ -10,9 +10,11 @@ NOTA: Para poder ejecutar el programa es necesario tener instalado Python en el 
 1.4. Abrir el archivo .bat y el programa se ejecutará solo  
 
 3. Ejemplos de salida  
-Caso de contraseña valida  <img width="476" height="283" alt="image" src="https://github.com/user-attachments/assets/e298f64d-07bc-4256-a889-8dd82686398e" />
+Caso de contraseña valida
+<img width="476" height="283" alt="image" src="https://github.com/user-attachments/assets/e298f64d-07bc-4256-a889-8dd82686398e" />
 
-Caso de contraseña invalida  <img width="498" height="278" alt="image" src="https://github.com/user-attachments/assets/f352bfa2-f7e4-4bdd-8817-c884da4103e9" />  
+Caso de contraseña invalida  
+<img width="498" height="278" alt="image" src="https://github.com/user-attachments/assets/f352bfa2-f7e4-4bdd-8817-c884da4103e9" />  
 
 
 5. Reflexion  
