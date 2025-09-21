@@ -10,6 +10,6 @@ NOTA: Para poder ejecutar el programa es necesario tener instalado Python en el 
   1.3.- Guardar el bloc de notas como tipo ".bat", por ejemplo, bruteforce.bat
   1.4.- Abrir el archivo .bat y el programa se ejecutará solo
 
-2. Ejemplos de salida:\n
-   <img width="476" height="283" alt="image" src="https://github.com/user-attachments/assets/e298f64d-07bc-4256-a889-8dd82686398e" />
+2. Ejemplos de salida
+<img width="476" height="283" alt="image" src="https://github.com/user-attachments/assets/e298f64d-07bc-4256-a889-8dd82686398e" />
 
