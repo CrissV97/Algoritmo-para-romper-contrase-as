@@ -13,3 +13,7 @@ NOTA: Para poder ejecutar el programa es necesario tener instalado Python en el 
 2. Ejemplos de salida
 <img width="476" height="283" alt="image" src="https://github.com/user-attachments/assets/e298f64d-07bc-4256-a889-8dd82686398e" />
 
+3. Reflexion:
+   ¿Qué pasa si la contraseña tiene 8+ caracteres y usa mayúsculas, números y símbolos?.
+
+   En caso de ingresar más de 8 caracteres, el programa mostrará el mensaje "La contraseña debe tener 4 caracteres." para luego cerrarse automaticamente. Al momento de ingresar letras mayúsculas o minusculas, números o simbolos, no habrá problema alguno ya que el programa está adaptado para tambien encontrar este tipo de caracteres.
