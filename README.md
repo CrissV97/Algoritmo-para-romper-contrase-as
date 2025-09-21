@@ -9,8 +9,8 @@ NOTA: Para poder ejecutar el programa es necesario tener instalado Python en el 
 1.3. Guardar el bloc de notas como tipo ".bat", por ejemplo, bruteforce.bat  
 1.4. Abrir el archivo .bat y el programa se ejecutará solo  
 
-3. Ejemplos de salida
-   Caso de contraseña valida  
+3. Ejemplos de salida  
+  Caso de contraseña valida  
  <img width="476" height="283" alt="image" src="https://github.com/user-attachments/assets/e298f64d-07bc-4256-a889-8dd82686398e" />
 
   Caso de contraseña invalida  
