@@ -2,7 +2,6 @@ import itertools, time
 
 obj = input("Introduce la contraseña a buscar: ")
 
-#obj = ".Rw9"
 if len(obj) == 4:
     print("Búsqueda de contraseña iniciada...")
     print("Buscando....")
