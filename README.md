@@ -1,5 +1,5 @@
 # Algoritmo-para-romper-contraseñas
-1. Ejecucion:
+1. Ejecucion
 NOTA: Para poder ejecutar el programa es necesario tener instalado Python en el sistema, en caso de no tenerlo, el programa mostrará un mensaje de error para posteriormente cerrarse.
 1.1. Como primer paso se debe descargar el archivo "bruteforce.py" que contiene el código del programa.
 1.2. En un bloc de notas debemos copiar el siguiente comando:
@@ -12,7 +12,7 @@ NOTA: Para poder ejecutar el programa es necesario tener instalado Python en el 
 3. Ejemplos de salida
 <img width="476" height="283" alt="image" src="https://github.com/user-attachments/assets/e298f64d-07bc-4256-a889-8dd82686398e" />
 
-4. Reflexion:
+4. Reflexion
    ¿Qué pasa si la contraseña tiene 8+ caracteres y usa mayúsculas, números y símbolos?.
 
    En caso de ingresar más de 8 caracteres, el programa mostrará el mensaje "La contraseña debe tener 4 caracteres." para luego cerrarse automaticamente. Al momento de ingresar letras mayúsculas o minusculas, números o simbolos, no habrá problema alguno ya que el programa está adaptado para tambien encontrar este tipo de caracteres.
