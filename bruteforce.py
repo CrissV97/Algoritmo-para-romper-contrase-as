@@ -5,7 +5,7 @@ obj = input("Introduce la contraseña a buscar: ")
 if len(obj) == 4:
     print("Búsqueda de contraseña iniciada...")
     print("Buscando....")
-    carct = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890.:-?¿!¡+*/%$#@'
+    carct = 'abcdefghijklmnñopqrstuvwxyzABCDEFGHIJKLMNÑOPQRSTUVWXYZ1234567890.:-?¿!¡+*/%$#@'
     long_max = 4
 
     def g_comb(carct, long_max):
